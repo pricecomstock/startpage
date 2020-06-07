@@ -1,0 +1,27 @@
+{
+  "tools": [
+    { "name": "todoist", "url": "https://todoist.com/app/" },
+    { "name": "github", "url": "https://github.com/pricecomstock/" },
+    { "name": "gmail", "url": "https://gmail.com" },
+    { "name": "gcal", "url": "https://calendar.google.com" }
+  ],
+  "music": [
+    { "name": "businessfunk", "url": "http://datassette.net/businessfunk/" },
+    { "name": "generative.fm", "url": "http://generative.fm" },
+    { "name": "musicforprogramming", "url": "http://musicforprogramming.net" },
+    {
+      "name": "chillhop",
+      "url": "https://www.youtube.com/results?search_query=lofi+chillhop"
+    },
+    {
+      "name": "yt synthwave",
+      "url": "https://www.youtube.com/results?search_query=synthwave+mix"
+    },
+    { "name": "mynoise", "url": "https://mynoise.net/noiseMachines.php" }
+  ],
+  "fun": [
+    { "name": "youtube", "url": "https://www.youtube.com/feed/subscriptions" },
+    { "name": "reddit", "url": "https://reddit.com" },
+    { "name": "hackernews", "url": "https://news.ycombinator.com" }
+  ]
+}
